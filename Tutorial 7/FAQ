@@ -1,0 +1,8 @@
+What are the different types of expressions? ● There are three types of expressions based on the position of operators. ● They are:
+Infix expression
+Prefix expression
+Postfix expression
+Give examples of all types of expressions. ● Infix: a + b — operator is written between operands. ● Prefix: + a b — operator is written before operands. ● Postfix: a b + — operator is written after operands.
+Which data structure is used for evaluation of expression? ● Stack is used for the evaluation of expressions. ● Stack follows the LIFO (Last In, First Out) principle. ● It is commonly used for postfix and prefix expression evaluation.
+Convert infix expression a+b+c+d to prefix expression. ● Infix expression: a + b + c + d ● Prefix expression: +++abcd ● Here, the operators are placed before the operands.
+Convert infix expression a+b+c+d to postfix expression. ● Infix expression: a + b + c + d ● Postfix expression: ab+c+d+ ● Here, the operators are placed after the operands.
